@@ -56,7 +56,7 @@ Bug 一词在英文中本来是虫子，臭虫之意，为什么现在我们会�
     <td><img src="https://webdyc.oss-cn-beijing.aliyuncs.com/moth-admin/qq.png" width="140px"></td>
   </tr>
   <tr>
-    <td>微信</td>
+<!--     <td>微信</td> -->
     <td><a target="_blank" href="https://jq.qq.com/?_wv=1027&k=j4F83vD5"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="小飞蛾前端技术交流群" title="小飞蛾前端技术交流群"></a></td>
   </tr>
 </table>
