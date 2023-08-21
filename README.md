@@ -52,7 +52,7 @@ Bug 一词在英文中本来是虫子，臭虫之意，为什么现在我们会�
 
 <table>
   <tr>
-    <td><img src="https://webdyc.oss-cn-beijing.aliyuncs.com/moth-admin/wx.png" width="140px"></td>
+<!--     <td><img src="https://webdyc.oss-cn-beijing.aliyuncs.com/moth-admin/wx.png" width="140px"></td> -->
     <td><img src="https://webdyc.oss-cn-beijing.aliyuncs.com/moth-admin/qq.png" width="140px"></td>
   </tr>
   <tr>
